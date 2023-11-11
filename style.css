@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(56, 56, 56);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.header-text {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: #42a4ff;
+    margin: 5px;
+    padding: 5px 10px;
+    border-radius: 7px;
+    border: 2px solid;
+}
+
+h2 {
+    color:rgb(207, 207, 207);
+}
+
+li {
+    color: rgb(207, 207, 207);
+}
